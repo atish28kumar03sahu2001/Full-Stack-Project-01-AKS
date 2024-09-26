@@ -21,6 +21,10 @@ Currently, two official plugins are available:
 
 * npm install axios
 
+* npm install redux react-redux
+
+* npm install redux-thunk
+
 * npm install react-collapse
 
 ## 2. BACKEND REQUIRED PACKAGES
